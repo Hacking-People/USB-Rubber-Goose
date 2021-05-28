@@ -1,0 +1,6 @@
+# Stuff TODO:
+
+- Upload the circuitpython uf2 file to here (Git LFS if needed)
+- Create a how to install & use for circuitpython
+
+- Create a main.py script that takes the commands from a commands.txt file and runs them through the HID
