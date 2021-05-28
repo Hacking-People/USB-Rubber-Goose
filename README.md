@@ -8,7 +8,6 @@ It takes commands from a commands.txt file and executes them.
 ## [TODO](TODO)
 
 <hr>
-<hr>
 
 ### Commands:
 
@@ -26,6 +25,7 @@ keycode(char)
 ```
 ### [keycodes](keycodes) 
 
+<hr>
 
 ### Examples:
 ```
