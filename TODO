@@ -4,3 +4,6 @@
 - Create a how to install & use for circuitpython
 
 - Create a main.py script that takes the commands from a commands.txt file and runs them through the HID
+
+- Add functionality for a button to initiate the attack
+- Add functionality for a menu (LCD/OLED)
