@@ -8,9 +8,9 @@ It takes commands from a commands.txt file and executes them.
 ## [TODO](TODO)
 
 
+### Commands:
 
 ```
-Here is the commands:
 
 write(text)
 #this will output a string/ line of text that will be typed by the keyboard.
@@ -22,10 +22,11 @@ keycode(char)
 #this will press the key coresponding to the given keycode
 #to see the keycodes go here: 
 ```
-[keycodes](keycodes) 
+### [keycodes](keycodes) 
 
+
+### Examples:
 ```
-examples:
 
 write("Some text that the keyboard will type")
 #output: Some text that the keyboard will type
