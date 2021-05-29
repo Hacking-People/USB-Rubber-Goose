@@ -85,4 +85,4 @@ def stealwifipasswds(): #exports all wifi passwords in xml format to a `WiFi-Cra
     time.sleep(5) #wait for command to execute
     killterminals() #close all open terminals
     
-print("definitions done")
+print("Definitions Done On: `USB-Rubber-Goose-Functions`")
