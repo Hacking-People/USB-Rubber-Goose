@@ -6,6 +6,12 @@ It takes commands from a commands.txt file and executes them.
 
 <hr>
 
+# Disclaimer:
+HOW YOU USE THIS IS UP TO YOUR OWN DISCRETION.
+I AM NOT RESPONSIBLE NOR LIABLE FOR ANY DAMAGE THIS CAUSES. 
+IF YOU DO NOT UNDERSTAND IT THEN PLEASE DON'T USE IT. (I am more than happy to walk you through it)
+<hr>
+
 ## To Use:
 - Hold down the `bootsel` button and plug in your Pico (to a computer) - this will then show as a USB storage device, 
 - Copy the `.uf2` file onto the USB device(called: `RPI-RP2`) device. It should unmount itself,
@@ -55,6 +61,4 @@ keycodes(b"\x28")
 #(newline/enter)
 
 ```
-
-
-HOW YOU USE THIS IS UP TO YOUR OWN DISCRETION.
+<hr>
