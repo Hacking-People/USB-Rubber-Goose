@@ -8,8 +8,11 @@ It takes commands from a commands.txt file and executes them.
 
 # Disclaimer:
 HOW YOU USE THIS IS UP TO YOUR OWN DISCRETION.
+
 I AM NOT RESPONSIBLE NOR LIABLE FOR ANY DAMAGE THIS CAUSES. 
+
 IF YOU DO NOT UNDERSTAND IT THEN PLEASE DON'T USE IT. (I am more than happy to walk you through it)
+
 <hr>
 
 ## To Use:
