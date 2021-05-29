@@ -20,20 +20,22 @@ It takes commands from a commands.txt file and executes them.
 
 <hr>
 
-### Commands:
+### commands.txt:
+The commands you can put into `commands.txt` are the same as anything you can write into the command prompt.
+Each line is a different command.
+
+```
+notepad
+explorer
+idle
 
 ```
 
-write(text)
-#this will output a string/ line of text that will be typed by the keyboard.
+The above commands.txt file open notepad, open the explorere, and open idle.
 
-_char_to_keycode(char)
-#this will return the keycode for the given key
+Please be as imaginative as possible and do as much as you want.
 
-keycode(char)
-#this will press the key coresponding to the given keycode
-#to see the keycodes go here: 
-```
+
 ### [keycodes](keycodes) 
 
 <hr>
@@ -53,3 +55,6 @@ keycodes(b"\x28")
 #(newline/enter)
 
 ```
+
+
+HOW YOU USE THIS IS UP TO YOUR OWN DISCRETION.
